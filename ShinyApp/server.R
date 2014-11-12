@@ -7,7 +7,7 @@
 
 library(shiny)
 library(rmongodb)
-library(rjson)
+library(RJSONJO)
 #RJSONJO gets problems with big JSON objects )-:
 
 # parameter to set the maximum queyering and displaying lentgth
